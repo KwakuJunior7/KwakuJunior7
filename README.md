@@ -2,7 +2,7 @@
 
 I work where finance meets machine learning: credit and financial risk, fraud detection, and how far predictive models can be trusted on data from a later period than the one they were trained on.
 
-M.S. Computer Science (expected December 2026) and MBA in Finance, New Mexico Highlands University. Applying to PhD programs in finance for Fall 2027.
+M.S. Computer Science (expected December 2026) and MBA in Finance, New Mexico Highlands University.
 
 ### Research
 
